@@ -1,11 +1,11 @@
-#**Classifying CIFAR images using CNN**
+# **Classifying CIFAR images using CNN**
 
 **Hugo Hiraoka - hhiraoka.w@gmail.com**
 
 CIFAR-10 (Canadian Institute For Advanced Research) is a collection of images with 10 different classes representing airplanes, cars, birds, 
 cats, deer, dogs, frogs, horses, ships, and trucks. CIFAR-10 is a set of images that can be used to teach a computer how to recognize objects.
 
-[CIFAR-10 images](src=https://i.imgur.com/CV8YFvJ.png)
+![CIFAR-10 images](https://i.imgur.com/CV8YFvJ.png)
 
 The CIFAR-10 dataset consists of 60000 32x32x3 i.e. color images in 10 classes, with 6000 images per class. There are 50000 training images and 
 10000 test images ( https://www.cs.toronto.edu/~kriz/cifar.html)
