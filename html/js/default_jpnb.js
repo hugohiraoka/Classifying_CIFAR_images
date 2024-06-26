@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log("Fetching repositories...");
         // enter location of file. Use repositories.txt
         //fetch('txt/my_repositories.txt')
-          fetch("/common/blob/main/my_repositories.txt")
+          fetch("txt/my_repositories.txt")
             .then(response => response.text())
             .then(data => {
                 console.log("File content:", data);
